@@ -1,6 +1,0 @@
-# Dice Game
-This C program is a simple dice game designed for two players. The players input their names, and the program simulates rolling a six-sided die three times for each player. The total score for each player is calculated based on the sum of the three dice rolls.
-
-The program then checks if either player has a total score of 18, in which case their total score is set to zero. Afterward, the program displays the individual dice rolls and the total score for each player. Finally, the program determines the winner based on the total scores, with tie-breaks resolved by comparing the values of the first dice roll for each player.
-
-The program includes basic input validation and uses the rand() function in combination with the time() function to generate pseudo-random numbers for the dice rolls. The winner is announced at the end of the game.
