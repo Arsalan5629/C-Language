@@ -1,3 +1,4 @@
+# A simple calculator to calculate the arithmetic operations between the two numbers.
 #include <stdio.h>
 
 int main() {
